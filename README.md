@@ -26,7 +26,7 @@ tar, gzip	cualquiera	Pre-instalado en Linux
 ⚙️ Configuración paso a paso
 1. Clonar el repositorio
 bash
-git clone https://github.com/TU_USUARIO/backup-wasabi.git /opt/scripts/backup-wasabi
+git clone [https://github.com/TU_USUARIO/backup-wasabi.git](https://github.com/jandro36/WasabiS3_backup_apache) /opt/scripts/backup-wasabi
 cd /opt/scripts/backup-wasabi
 chmod +x backup_wasabi.sh
 2. Configurar AWS CLI para Wasabi
